@@ -3,6 +3,7 @@ This is a coursera project on generative adversarial networks
 
 This Python script uses PyTorch to implement Deep learning with pytorch: Generative Adversarial Network (GAN) for generating images. In this project there were images with numbers which were blurry and were dificult to read and using GAN, those numbers were enhanced so that it can be understood easily. It is just one simple application of GAN network among many other like data augmentation, image enhancement, text generation etc. 
 
+
 ## Dependencies
 
 The script uses the following libraries:
